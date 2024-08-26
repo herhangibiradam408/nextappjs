@@ -464,7 +464,7 @@ export default function Home() {
         <div>
           {fontSize ? (
             <p
-              className="z-20 absolute flex justify-center mb-8 text-red-600 xl:top-[calc(110/800*100dvh)] md:top-[calc(120/800*100dvh)] top-[calc(104/800*100dvh)] md:left-[calc(160/200*100%)] xxl:left-[calc(1417/2000*100%)] left-[calc(103/200*100dvh)]"
+              className="z-20 absolute flex justify-center mb-8 text-red-600 xl:top-[calc(110/800*100dvh)] md:top-[calc(120/800*100dvh)] top-[calc(104/800*100dvh)] md:left-[calc(160/200*100%)] xl:left-[calc(1417/2000*100%)] left-[calc(103/200*100dvh)]"
               style={{
                 fontSize: fontSize,
               }}
